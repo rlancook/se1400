@@ -20,7 +20,7 @@
 }
 
 .logo {
-    grid-column: 3 / 7; /* slightly inset like your design */
+    grid-column: 3 / 7;
     height: 220px;
     background: rgba(0, 0, 255, 0.3);
 }
